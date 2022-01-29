@@ -1,9 +1,17 @@
 MOTIVACIÓN
-
+Dar un apoyo a la medicina brindando un diagnostico previo a los pacientes sospechosos de tener anemia, 
+por medio de una foto de sus ojos                                           
 
 PROBLEMÁTICA GENERAL
 
 OBJETIVOS
+GENERAL
+Analizar las fotos de los ojos de los pacientes sospechosos de tener anemia, por medio de un algoritmo de 
+visión artificial programado en Python, para dar un diagnotico previo sobre si el paciente tiene anemia o no
+
+ESPECIFICOS
+-Desarrollar un algoritmo capaz de procesar la foto de un ojo, para así poder observar con mayor claridad si 
+el paciente es sospechoso de tener anemia o no
 
 TRABAJOS PREVIOS
 
